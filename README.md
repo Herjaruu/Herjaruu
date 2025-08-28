@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Herjaruu/Herjaruu/main/banner.png" alt="Hajaru Muhammad Banner" width="100%" />
+</p>
 # 👋 Hi, I'm Hajaru Muhammad (Herjaruu)
 
 🌍 **General Manager @ MetaEarth Nigeria**  
